@@ -9,6 +9,8 @@ new RevealOnScroll(selector, offsetPercentage);
 
 
 Example:
-var $sectionItem = $('.section-item');
+class
+var section = new RevealOnScroll('.section-item', "60%");
 
-var section = new RevealOnScroll($sectionItem, "60%");
+id
+var section = new RevealOnScroll('#section-item', "60%");
